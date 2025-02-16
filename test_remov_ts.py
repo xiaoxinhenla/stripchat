@@ -151,26 +151,21 @@ async def find_m3u8_directories_fordir(root_path):
                 file_prefix = os.path.splitext(filename)[0]
                 print(f"Found .m3u8 file: {dirpath}")
                 print(f"File prefix: {file_prefix}")
-                await merge_ts_to_mp4(dirpath,file_prefix)
-                await delete_files_by_prefix(dirpath,file_prefix)
-
-
-async def filetomp4(pathname):
-    directories=get_directories_in_path(pathname)
+                # await merge_ts_to_mp4(dirpath,file_prefix)
+                # await delete_files_by_prefix(dirpath,file_prefix)
+        
     
-    for i in directories:
-        newpathname=f"{pathname}/{i}"
-        newname=f"{i}".split(".")[0]
-        print(newname,newpathname)
-    #pathname=f"D:\\python\\stripchat2\\movie1\\Linda_2k11\\152515378\\2025214\\{i}"
-        await merge_ts_to_mp4(pathname,newname)
-        await delete_files_by_prefix(pathname,newname)
-    print("转mp4结束")
+    print("没有找到m3u8文件")
+
+
 
 
 async def process_directory(dir_path):
     # 在这里处理找到的目录，比如读取文件或其他操作
-    await filetomp4(dir_path)
+    #await filetomp4(dir_path)
+    print(dir_path)
+    await find_m3u8_directories_fordir(dir_path)
+    print("over")
 
 async def find_directory(root_path, target_dir_name):
     tasks = []
@@ -180,8 +175,8 @@ async def find_directory(root_path, target_dir_name):
             target_path = os.path.join(dirpath, target_dir_name)
             print(f"Found directory: {target_path}")
             # 找到目标目录后，进一步处理
-            #task = asyncio.create_task(process_directory(target_path))
-            #tasks.append(task)
+            task = asyncio.create_task(process_directory(target_path))
+            tasks.append(task)
     # 等待所有任务完成
     if tasks:
         await asyncio.gather(*tasks)  
@@ -191,7 +186,8 @@ async def main():
     root_directory = f"D:\\python\\stripchat2\\movie"  # 替换为你想遍历的目录路径
     target_directory = "2025215"  # 目标目录名
     #await find_m3u8_directories(root_directory)
-    await find_m3u8_directories_fordir(root_directory)
+    await find_directory(root_directory,target_directory)
+    await asyncio.sleep(100)
 
 if __name__ == "__main__":
     asyncio.run(main())
