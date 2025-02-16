@@ -1,0 +1,54 @@
+e3 
+
+  { "jiaozi-kiss": "https://edge-hls.doppiocdn.live/hls/175012249/master/175012249_auto.m3u8?playlistType=lowLatency",
+    "Anna_Bri": "https://edge-hls.doppiocdn.live/hls/103181851/master/103181851_auto.m3u8?playlistType=lowLatency",
+    "Susu-8": "https://edge-hls.doppiocdn.live/hls/184968808/master/184968808_auto.m3u8?playlistType=lowLatency",
+    "hamei88": "https://edge-hls.doppiocdn.live/hls/163871400/master/163871400_auto.m3u8?playlistType=lowLatency",
+    "sigmasian": "https://edge-hls.doppiocdn.live/hls/110682488/master/110682488_auto.m3u8?playlistType=lowLatency",
+    "PimChanOK": "https://edge-hls.doppiocdn.live/hls/113240104/master/113240104_auto.m3u8?playlistType=lowLatency",
+    "ChengYu_0702": "https://edge-hls.doppiocdn.live/hls/184345968/master/184345968_auto.m3u8?playlistType=lowLatency",
+    "Ti_amo_UU": "https://edge-hls.doppiocdn.live/hls/127882835/master/127882835_auto.m3u8?playlistType=lowLatency",
+    "-mi_mi-": "https://edge-hls.doppiocdn.live/hls/162696696/master/162696696_auto.m3u8?playlistType=lowLatency",
+    "Anytoly": "https://edge-hls.doppiocdn.live/hls/142266575/master/142266575_auto.m3u8?playlistType=lowLatency",
+    "Lucy-1111": "https://edge-hls.doppiocdn.live/hls/163914386/master/163914386_auto.m3u8?playlistType=lowLatency",}
+e5
+{
+    "LKi-Vicky": "https://edge-hls.doppiocdn.live/hls/183991229/master/183991229_auto.m3u8?playlistType=lowLatency",
+    "Maneki-nekoo": "https://edge-hls.doppiocdn.live/hls/176314761/master/176314761_auto.m3u8?playlistType=lowLatency",
+    "LAUREL_HAZEL": "https://edge-hls.doppiocdn.live/hls/29343123/master/29343123_auto.m3u8?playlistType=lowLatency",
+    "UUKiss_": "https://edge-hls.doppiocdn.live/hls/161840715/master/161840715_auto.m3u8?playlistType=lowLatency",
+    "Oo_Kaixin_oO": "https://edge-hls.doppiocdn.live/hls/99704428/master/99704428_auto.m3u8?playlistType=lowLatency",
+    "lisa_art": "https://edge-hls.doppiocdn.live/hls/149352638/master/149352638_auto.m3u8?playlistType=lowLatency",
+    "Game_yoyo1": "https://edge-hls.doppiocdn.live/hls/116052738/master/116052738_auto.m3u8?playlistType=lowLatency",
+    "icc_lovouol": "https://edge-hls.doppiocdn.live/hls/106947767/master/106947767_auto.m3u8?playlistType=lowLatency",
+    "mikio_san": "https://edge-hls.doppiocdn.live/hls/85492111/master/85492111_auto.m3u8?playlistType=lowLatency",
+    "Iris_xyz": "https://edge-hls.doppiocdn.live/hls/181212396/master/181212396_auto.m3u8?playlistType=lowLatency",
+    "Duludulu_007": "https://edge-hls.doppiocdn.live/hls/121116049/master/121116049_auto.m3u8?playlistType=lowLatency",
+    "Melody": "https://edge-hls.doppiocdn.live/hls/151212882/master/151212882_auto.m3u8?playlistType=lowLatency",
+    "FountainAngel": "https://edge-hls.doppiocdn.live/hls/102812909/master/102812909_auto.m3u8?playlistType=lowLatency",
+    "BustyBlondeBarbie": "https://edge-hls.doppiocdn.live/hls/104804719/master/104804719_auto.m3u8?playlistType=lowLatency",
+    "SofiaRios04": "https://edge-hls.doppiocdn.live/hls/124852761/master/124852761_auto.m3u8?playlistType=lowLatency"
+}
+二楼
+
+{
+    "Irene": "https://edge-hls.doppiocdn.live/hls/182252240/master/182252240_auto.m3u8?playlistType=lowLatency",
+    "Game_yoyo":"https://edge-hls.doppiocdn.live/hls/116052738/master/116052738_auto.m3u8?playlistType=lowLatency",
+    "Linda_2k11": "https://edge-hls.doppiocdn.live/hls/152515378/master/152515378_auto.m3u8?playlistType=lowLatency",
+    "Xiaomi-Angela":"https://edge-hls.doppiocdn.live/hls/175905857/master/175905857_auto.m3u8?playlistType=lowLatency",
+    "xixixx11":"https://edge-hls.doppiocdn.live/hls/179808418/master/179808418_auto.m3u8?playlistType=lowLatency",
+    "JessicaButler":"https://edge-hls.doppiocdn.live/hls/170127105/master/170127105_auto.m3u8?playlistType=lowLatency",
+    "Sarah_Xoxo":"https://edge-hls.doppiocdn.live/hls/161623629/master/161623629_auto.m3u8?playlistType=lowLatency",
+    "Mila-Aa":"https://edge-hls.doppiocdn.live/hls/158139830/master/158139830_auto.m3u8?playlistType=lowLatency",
+    "Unique-yiyi":"https://edge-hls.doppiocdn.live/hls/179817567/master/179817567_auto.m3u8?playlistType=lowLatency",
+    "YangYangmian-521":"https://edge-hls.doppiocdn.live/hls/166473076/master/166473076_auto.m3u8?playlistType=lowLatency",
+    "Yoori_S":"https://edge-hls.doppiocdn.live/hls/125047518/master/125047518_auto.m3u8?playlistType=lowLatency",
+    "xiaoyu---sss":"https://edge-hls.doppiocdn.live/hls/180753183/master/180753183_auto.m3u8?playlistType=lowLatency"
+}
+
+办公室
+{
+    
+}
+
+
